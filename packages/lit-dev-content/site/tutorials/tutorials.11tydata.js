@@ -38,6 +38,7 @@ module.exports = async () => {
     loadTutorialData('advanced-templating'),
 
     // Build
+    loadTutorialData('wc-to-lit'),
     loadTutorialData('brick-viewer'),
   ]);
   /*
