@@ -36,6 +36,7 @@ module.exports = async () => {
     // Learn
     loadTutorialData('intro-to-lit'),
     loadTutorialData('advanced-templating'),
+    loadTutorialData('working-with-lists'),
 
     // Build
     loadTutorialData('brick-viewer'),
